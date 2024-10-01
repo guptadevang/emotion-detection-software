@@ -3,5 +3,7 @@
 ## Technologies Used
 
 Keras
+
 Open Source Haar Cascade
+
 OpenCV
